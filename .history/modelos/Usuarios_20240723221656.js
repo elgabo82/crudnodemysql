@@ -1,0 +1,4 @@
+/*
+Modelo: Usuarios
+BD: MySQL
+*/

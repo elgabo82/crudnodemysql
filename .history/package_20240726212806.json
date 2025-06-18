@@ -1,0 +1,22 @@
+{
+  "name": "crudnode",
+  "version": "1.0.0",
+  "description": "CRUD Node JS MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Morejón",
+  "license": "AFL-3.0",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.3",
+    "sonar-scanner": "^3.1.0",
+    "sonarqube-scanner": "^4.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
